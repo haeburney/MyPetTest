@@ -88,7 +88,7 @@ const infoList = [
   },
   {
     name: '보더콜리\n\n ',
-    desc: ' \n\n설명준비중'
+    desc: ' \n설명준비중 <br>설명준비중 <br>설명준비중 <br>설명준비중 <br>설명준비중'
   },
   {
     name: '사모예드\n\n ',
